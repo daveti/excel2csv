@@ -1,0 +1,345 @@
+Player
+playerid,name,position,born,height,weight,yearspro,team
+328,Shareef Abdur-Rahim,Center,1976-12-11,6-9/2_06,245 lbs./111_1 kg.,11,SAC
+329,Arron Afflalo,Guard,1985-10-15,6-5/1_96,215 lbs./97_5  kg.,0,DET
+330,Maurice Ager,Guard,1984-2-9,6-5/1_96,202 lbs./91_6  kg.,1,DAL
+331,LaMarcus Aldridge,Forward - Center,1985-7-19,6-1/ 2_11,245 lbs./111_1 kg.,1,POR
+332,Malik Allen,Forward,1978-6-27,6-1/ 2_08,255 lbs./115_7 kg.,6,NJN
+333,Ray Allen,Guard,1975-7-20,6-5/1_96,205 lbs./93_0  kg.,11,BOS
+334,Tony Allen,Guard,1982-1-11,6-4/1_93,213 lbs./96_6  kg.,3,BOS
+335,Rafer Alston,Guard,1976-7-24,6-2/1_88,175 lbs./79_4  kg.,8,HOU
+336,Carmelo Anthony,Forward,1984-5-29,6-8/2_03,230 lbs./104_3 kg.,4,DEN
+337,Gilbert Arenas,Guard,1982-1-6,6-4/1_93,215 lbs./97_5  kg.,6,WAS
+338,Trevor Ariza,Forward,1985-6-30,6-8/2_03,210 lbs./95_3  kg.,3,ORL
+339,Darrell Armstrong,Guard,1968-6-22,6-1/1_85,180 lbs./81_6  kg.,13,NJN
+340,Hilton Armstrong,Forward - Center,1984-11-11,6-1/ 2_11,235 lbs./106_6 kg.,1,NOH
+341,Carlos Arroyo,Guard,1979-7-30,6-2/1_88,202 lbs./91_6  kg.,6,ORL
+342,James Augustine,Forward,1984-2-27,6-1/ 2_08,235 lbs./106_6 kg.,1,ORL
+343,Kelenna Azubuike,Forward - Guard,1983-12-16,6-5/1_96,220 lbs./99_8  kg.,1,GSW
+344,Renaldo Balkman,Forward,1984-7-14,6-8/2_03,208 lbs./94_3  kg.,1,NYK
+345,Marcus Banks,Guard,1981-11-19,6-2/1_88,212 lbs./96_2  kg.,4,PHX
+346,Leandro Barbosa,Guard,1982-11-28,6-3/1_91,202 lbs./91_6  kg.,4,PHX
+347,Jose Barea,Guard,1984-6-26,6-0/1_83,175 lbs./79_4  kg.,1,DAL
+348,Andrea Bargnani,Forward - Center,1985-10-26,7-0/2_13,250 lbs./113_4 kg.,1,TOR
+349,Matt Barnes,Forward,1980-3-9,6-7/2_01,226 lbs./102_5 kg.,4,GSW
+350,Brent Barry,Guard,1971-12-31,6-7/2_01,210 lbs./95_3  kg.,12,SAS
+351,Brandon Bass,Forward,1985-4-30,6-8/2_03,240 lbs./108_9 kg.,2,DAL
+352,Shane Battier,Forward,1978-9-9,6-8/2_03,220 lbs./99_8  kg.,6,HOU
+353,Marco Belinelli,Guard,1986-3-25,6-5/1_96,192 lbs./87_1  kg.,0,GSW
+354,Charlie Bell,Guard,1979-3-12,6-3/1_91,200 lbs./90_7  kg.,3,MIL
+355,Raja Bell,Guard,1976-9-19,6-5/1_96,215 lbs./97_5  kg.,7,PHX
+356,Andris Biedrins,Center,1986-4-2,6-1/ 2_11,230 lbs./104_3 kg.,3,GSW
+357,Chauncey Billups,Guard,1976-9-25,6-3/1_91,202 lbs./91_6  kg.,10,DET
+358,Steve Blake,Guard,1980-2-26,6-3/1_91,172 lbs./78_0  kg.,4,POR
+359,Andray Blatche,Forward,1986-8-22,6-1/ 2_11,248 lbs./112_5 kg.,2,WAS
+360,Mark Blount,Center - Forward,1975-11-30,7-0/2_13,250 lbs./113_4 kg.,7,MIA
+361,Keith Bogans,Guard - Forward,1980-5-12,6-5/1_96,215 lbs./97_5  kg.,4,ORL
+362,Andrew Bogut,Center,1984-11-28,7-0/2_13,260 lbs./117_9 kg.,2,MIL
+363,Matt Bonner,Forward,1980-4-5,6-1/ 2_08,240 lbs./108_9 kg.,3,SAS
+364,Josh Boone,Forward,1984-11-21,6-1/ 2_08,237 lbs./107_5 kg.,1,NJN
+365,Calvin Booth,Center,1976-5-7,6-1/ 2_11,250 lbs./113_4 kg.,8,PHI
+366,Carlos Boozer,Forward - Center,1981-11-20,6-9/2_06,266 lbs./120_7 kg.,5,UTA
+367,Chris Bosh,Forward,1984-3-24,6-1/ 2_08,230 lbs./104_3 kg.,4,TOR
+368,Bruce Bowen,Forward,1971-6-14,6-7/2_01,200 lbs./90_7  kg.,11,SAS
+369,Ryan Bowen,Forward,1975-11-20,6-9/2_06,218 lbs./98_9  kg.,7,NOH
+370,Corey Brewer,Guard - Forward,1986-3-5,6-9/2_06,185 lbs./83_9  kg.,0,MIN
+371,Ronnie Brewer,Guard - Forward,1985-3-20,6-7/2_01,223 lbs./101_2 kg.,1,UTA
+372,Primoz Brezec,Center,1979-10-2,7-1/2_16,255 lbs./115_7 kg.,6,CHA
+373,Andre Brown,Forward,1981-5-12,6-9/2_06,245 lbs./111_1 kg.,1,MEM
+374,Devin Brown,Guard,1978-12-30,6-5/1_96,210 lbs./95_3  kg.,5,CLE
+375,Kwame Brown,Center,1982-3-10,6-1/ 2_11,270 lbs./122_5 kg.,6,LAL
+376,Shannon Brown,Guard,1985-11-29,6-4/1_93,211 lbs./95_7  kg.,1,CLE
+377,Kobe Bryant,Guard,1978-8-23,6-6/1_98,205 lbs./93_0  kg.,11,LAL
+378,Greg Buckner,Guard - Forward,1976-9-16,6-4/1_93,210 lbs./95_3  kg.,8,MIN
+379,Caron Butler,Forward,1980-3-13,6-7/2_01,228 lbs./103_4 kg.,5,WAS
+380,Rasual Butler,Guard,1979-5-23,6-7/2_01,205 lbs./93_0  kg.,5,NOH
+381,Andrew Bynum,Center,1987-10-27,7-0/2_13,285 lbs./129_3 kg.,2,LAL
+382,Jose Calderon,Guard,1981-9-28,6-3/1_91,210 lbs./95_3  kg.,2,TOR
+383,Marcus Camby,Center - Forward,1974-3-22,6-1/ 2_11,235 lbs./106_6 kg.,11,DEN
+384,Rodney Carney,Forward,1984-4-15,6-6/1_98,204 lbs./92_5  kg.,1,PHI
+385,Matt Carroll,Forward - Guard,1980-8-28,6-6/1_98,212 lbs./96_2  kg.,4,CHA
+386,Vince Carter,Guard - Forward,1977-1-26,6-6/1_98,220 lbs./99_8  kg.,9,NJN
+387,Sam Cassell,Guard,1969-11-18,6-3/1_91,185 lbs./83_9  kg.,14,LAC
+388,Tyson Chandler,Center,1982-10-2,7-1/2_16,235 lbs./106_6 kg.,6,NOH
+389,Josh Childress,Guard - Forward,1983-6-20,6-8/2_03,210 lbs./95_3  kg.,3,ATL
+390,Jarron Collins,Center,1978-12-2,6-1/ 2_11,239 lbs./108_4 kg.,6,UTA
+391,Jason Collins,Center - Forward,1978-12-2,7-0/2_13,255 lbs./115_7 kg.,6,NJN
+392,Nick Collison,Center - Forward,1980-10-26,6-1/ 2_08,255 lbs./115_7 kg.,3,SEA
+393,Brian Cook,Forward,1980-12-4,6-9/2_06,250 lbs./113_4 kg.,4,LAL
+394,Daequan Cook,Guard,1987-4-28,6-5/1_96,205 lbs./93_0  kg.,0,MIA
+395,Jamal Crawford,Guard,1980-3-20,6-5/1_96,200 lbs./90_7  kg.,7,NYK
+396,Javaris Crittenton,Guard,1987-12-31,6-5/1_96,200 lbs./90_7  kg.,0,LAL
+397,Austin Croshere,Forward,1975-5-1,6-1/ 2_08,235 lbs./106_6 kg.,10,GSW
+398,Eddy Curry,Center - Forward,1982-12-5,6-1/ 2_11,285 lbs./129_3 kg.,6,NYK
+399,Samuel Dalembert,Center,1981-5-10,6-1/ 2_11,250 lbs./113_4 kg.,5,PHI
+400,Antonio Daniels,Guard,1975-3-19,6-4/1_93,205 lbs./93_0  kg.,10,WAS
+401,Marquis Daniels,Guard,1981-1-7,6-6/1_98,200 lbs./90_7  kg.,4,IND
+402,Baron Davis,Guard,1979-4-13,6-3/1_91,215 lbs./97_5  kg.,8,GSW
+403,Glen Davis,Forward,1986-1-1,6-9/2_06,289 lbs./131_1 kg.,0,BOS
+404,Paul Davis,Center,1984-7-21,6-1/ 2_11,270 lbs./122_5 kg.,1,LAC
+405,Ricky Davis,Guard,1979-9-23,6-7/2_01,205 lbs./93_0  kg.,9,MIA
+406,Carlos Delfino,Guard,1982-8-29,6-6/1_98,230 lbs./104_3 kg.,3,TOR
+407,Luol Deng,Forward - Guard,1985-4-16,6-9/2_06,220 lbs./99_8  kg.,3,CHI
+408,Boris Diaw,Forward,1982-4-16,6-8/2_03,235 lbs./106_6 kg.,4,PHX
+409,Yakhouba Diawara,Guard,1982-8-29,6-7/2_01,225 lbs./102_1 kg.,1,DEN
+410,Dan Dickau,Guard,1978-9-16,6-0/1_83,180 lbs./81_6  kg.,5,LAC
+411,Travis Diener,Guard,1982-3-1,6-1/1_85,175 lbs./79_4  kg.,2,IND
+412,Ike Diogu,Forward,1983-9-11,6-8/2_03,255 lbs./115_7 kg.,2,IND
+413,DeSagana Diop,Center,1982-1-30,7-0/2_13,280 lbs./127_0 kg.,6,DAL
+414,Juan Dixon,Guard,1978-10-9,6-3/1_91,165 lbs./74_8  kg.,5,TOR
+415,Keyon Dooling,Guard,1980-5-8,6-3/1_91,195 lbs./88_5  kg.,7,ORL
+416,Quincy Douby,Guard,1984-5-16,6-3/1_91,175 lbs./79_4  kg.,1,SAC
+417,Jared Dudley,Guard - Forward,1985-7-10,6-7/2_01,225 lbs./102_1 kg.,0,CHA
+418,Chris Duhon,Guard,1982-8-31,6-1/1_85,185 lbs./83_9  kg.,3,CHI
+419,Tim Duncan,Forward - Center,1976-4-25,6-1/ 2_11,260 lbs./117_9 kg.,10,SAS
+420,Mike Dunleavy,Forward - Guard,1980-9-15,6-9/2_06,230 lbs./104_3 kg.,5,IND
+421,Ronald Dupree,Forward,1981-1-26,6-7/2_01,209 lbs./94_8  kg.,4,DET
+422,Kevin Durant,Forward,1988-9-29,6-9/2_06,215 lbs./97_5  kg.,0,SEA
+423,Monta Ellis,Guard,1985-10-26,6-3/1_91,177 lbs./80_3  kg.,2,GSW
+424,Francisco Elson,Center,1976-2-28,7-0/2_13,235 lbs./106_6 kg.,4,SAS
+425,Melvin Ely,Forward - Center,1978-5-2,6-1/ 2_08,261 lbs./118_4 kg.,5,NOH
+426,Maurice Evans,Guard,1978-11-8,6-5/1_96,220 lbs./99_8  kg.,4,LAL
+427,Reggie Evans,Forward,1980-5-18,6-8/2_03,245 lbs./111_1 kg.,5,PHI
+428,Jordan Farmar,Guard,1986-11-30,6-2/1_88,180 lbs./81_6  kg.,1,LAL
+429,Nick Fazekas,Forward,1985-6-17,6-1/ 2_11,235 lbs./106_6 kg.,0,DAL
+430,Raymond Felton,Guard,1984-6-26,6-1/1_85,198 lbs./89_8  kg.,2,CHA
+431,Michael Finley,Guard - Forward,1973-3-6,6-7/2_01,225 lbs./102_1 kg.,12,SAS
+432,Derek Fisher,Guard,1974-8-9,6-1/1_85,210 lbs./95_3  kg.,11,LAL
+433,T.J. Ford,Guard,1983-3-24,6-0/1_83,165 lbs./74_8  kg.,3,TOR
+434,Jeff Foster,Center - Forward,1977-1-16,6-1/ 2_11,250 lbs./113_4 kg.,8,IND
+435,Adonal Foyle,Center,1975-3-9,6-1/ 2_08,270 lbs./122_5 kg.,10,ORL
+436,Channing Frye,Forward,1983-5-17,6-1/ 2_11,248 lbs./112_5 kg.,2,POR
+437,Dan Gadzuric,Center,1978-2-2,6-1/ 2_11,245 lbs./111_1 kg.,5,MIL
+438,Jorge Garbajosa,Forward,1977-12-19,6-9/2_06,245 lbs./111_1 kg.,1,TOR
+439,Francisco Garcia,Forward - Guard,1981-12-31,6-7/2_01,195 lbs./88_5  kg.,2,SAC
+440,Kevin Garnett,Forward,1976-5-19,6-1/ 2_11,220 lbs./99_8  kg.,12,BOS
+441,Pat Garrity,Forward,1976-8-23,6-9/2_06,238 lbs./108_0 kg.,9,ORL
+442,Pau Gasol,Forward - Center,1980-7-6,7-0/2_13,260 lbs./117_9 kg.,6,MEM
+443,Rudy Gay,Guard - Forward,1986-8-17,6-8/2_03,222 lbs./100_7 kg.,1,MEM
+444,Mickael Gelabale,Forward,1983-5-22,6-7/2_01,215 lbs./97_5  kg.,1,SEA
+445,Daniel Gibson,Guard,1986-2-27,6-2/1_88,194 lbs./88_0  kg.,1,CLE
+446,Manu Ginobili,Guard,1977-7-28,6-6/1_98,205 lbs./93_0  kg.,5,SAS
+447,Gordan Giricek,Guard,1977-6-20,6-6/1_98,220 lbs./99_8  kg.,5,UTA
+448,Ryan Gomes,Forward,1982-9-1,6-7/2_01,250 lbs./113_4 kg.,2,MIN
+449,Drew Gooden,Forward - Center,1981-9-24,6-1/ 2_08,250 lbs./113_4 kg.,5,CLE
+450,Ben Gordon,Guard,1983-4-4,6-3/1_91,200 lbs./90_7  kg.,3,CHI
+451,Joey Graham,Forward,1982-6-11,6-7/2_01,225 lbs./102_1 kg.,2,TOR
+452,Stephen Graham,Guard,1982-6-11,6-6/1_98,215 lbs./97_5  kg.,2,IND
+453,Danny Granger,Forward,1983-4-20,6-8/2_03,228 lbs./103_4 kg.,2,IND
+454,Aaron Gray,Center,1984-12-7,7-0/2_13,270 lbs./122_5 kg.,0,CHI
+455,Gerald Green,Guard - Forward,1986-1-26,6-8/2_03,200 lbs./90_7  kg.,2,MIN
+456,Jeff Green,Forward,1986-8-28,6-9/2_06,235 lbs./106_6 kg.,0,SEA
+457,Taurean Green,Guard,1986-11-28,6-0/1_83,177 lbs./80_3  kg.,0,POR
+458,Willie Green,Guard,1981-7-28,6-3/1_91,201 lbs./91_2  kg.,4,PHI
+459,Orien Greene,Guard,1982-2-4,6-4/1_93,208 lbs./94_3  kg.,2,SAC
+460,Richard Hamilton,Guard - Forward,1978-2-14,6-7/2_01,193 lbs./87_5  kg.,8,DET
+461,Anfernee Hardaway,Guard - Forward,1971-7-18,6-7/2_01,215 lbs./97_5  kg.,13,MIA
+462,Matt Harpring,Forward - Guard,1976-5-31,6-7/2_01,230 lbs./104_3 kg.,9,UTA
+463,Al Harrington,Center - Forward,1980-2-17,6-9/2_06,250 lbs./113_4 kg.,9,GSW
+464,Devin Harris,Guard,1983-2-27,6-3/1_91,185 lbs./83_9  kg.,3,DAL
+465,David Harrison,Center,1982-8-15,7-0/2_13,280 lbs./127_0 kg.,3,IND
+466,Jason Hart,Guard,1978-4-29,6-3/1_91,180 lbs./81_6  kg.,6,UTA
+467,Udonis Haslem,Forward,1980-6-9,6-8/2_03,235 lbs./106_6 kg.,4,MIA
+468,Trenton Hassell,Forward,1979-3-4,6-5/1_96,233 lbs./105_7 kg.,6,DAL
+469,Chuck Hayes,Forward,83-6-11,6-6/1_98,238 lbs./108_0 kg.,2,HOU
+470,Jarvis Hayes,Forward,1981-8-9,6-8/2_03,228 lbs./103_4 kg.,4,DET
+471,Brendan Haywood,Center,1979-11-27,7-0/2_13,263 lbs./119_3 kg.,6,WAS
+472,Luther Head,Guard,1982-11-26,6-3/1_91,185 lbs./83_9  kg.,2,HOU
+473,Walter Herrmann,Forward,1979-6-26,6-9/2_06,225 lbs./102_1 kg.,1,CHA
+474,Grant Hill,Guard - Forward,1972-10-5,6-8/2_03,225 lbs./102_1 kg.,12,PHX
+475,Kirk Hinrich,Guard,1981-1-2,6-3/1_91,190 lbs./86_2  kg.,4,CHI
+476,Ryan Hollins,Center,1984-10-10,7-0/2_13,230 lbs./104_3 kg.,1,CHA
+477,Al Horford,Forward - Center,1986-6-3,6-1/ 2_08,245 lbs./111_1 kg.,0,ATL
+478,Eddie House,Guard,1978-5-14,6-1/1_85,175 lbs./79_4  kg.,7,BOS
+479,Dwight Howard,Center - Forward,1985-12-8,6-1/ 2_11,265 lbs./120_2 kg.,3,ORL
+480,Josh Howard,Forward - Guard,1980-4-28,6-5/1_96,210 lbs./95_3  kg.,4,DAL
+481,Juwan Howard,Forward,1973-2-7,6-9/2_06,253 lbs./114_8 kg.,13,DAL
+482,Troy Hudson,Guard,1976-3-13,6-1/1_85,178 lbs./80_7  kg.,10,GSW
+483,Larry Hughes,Guard,1979-1-23,6-5/1_96,185 lbs./83_9  kg.,9,CLE
+484,Kris Humphries,Forward,1985-2-6,6-9/2_06,235 lbs./106_6 kg.,3,TOR
+485,Steven Hunter,Forward,1981-10-31,7-0/2_13,240 lbs./108_9 kg.,6,DEN
+486,Andre Iguodala,Forward - Guard,1984-1-28,6-6/1_98,207 lbs./93_9  kg.,3,PHI
+487,Zydrunas Ilgauskas,Center,1975-6-5,7-3/2_21,260 lbs./117_9 kg.,9,CLE
+488,Allen Iverson,Guard,1975-6-7,6-0/1_83,165 lbs./74_8  kg.,11,DEN
+489,Royal Ivey,Guard,1981-12-20,6-4/1_93,215 lbs./97_5  kg.,3,MIL
+490,Jarrett Jack,Guard,1983-10-28,6-3/1_91,197 lbs./89_4  kg.,2,POR
+491,Bobby Jackson,Guard,1973-3-13,6-1/1_85,185 lbs./83_9  kg.,10,NOH
+492,Casey Jacobsen,Guard - Forward,1981-3-19,6-6/1_98,215 lbs./97_5  kg.,3,MEM
+493,LeBron James,Forward,1984-12-30,6-8/2_03,250 lbs./113_4 kg.,4,CLE
+494,Mike James,Guard,1975-6-23,6-2/1_88,188 lbs./85_3  kg.,6,HOU
+495,Antawn Jamison,Forward,1976-6-12,6-9/2_06,235 lbs./106_6 kg.,9,WAS
+496,Marko Jaric,Guard,1978-10-12,6-7/2_01,224 lbs./101_6 kg.,5,MIN
+497,Al Jefferson,Forward - Center,1985-1-4,6-1/ 2_08,265 lbs./120_2 kg.,3,MIN
+498,Richard Jefferson,Forward,1980-6-21,6-7/2_01,225 lbs./102_1 kg.,6,NJN
+499,Alexander Johnson,Forward,1983-2-8,6-9/2_06,230 lbs./104_3 kg.,1,MIA
+500,Amir Johnson,Forward,1987-5-1,6-9/2_06,210 lbs./95_3  kg.,2,DET
+501,Anthony Johnson,Guard,1974-10-2,6-3/1_91,195 lbs./88_5  kg.,10,ATL
+502,Joe Johnson,Guard - Forward,1981-6-29,6-7/2_01,235 lbs./106_6 kg.,6,ATL
+503,Bobby Jones,Forward,1984-1-9,6-7/2_01,215 lbs./97_5  kg.,1,DEN
+504,Damon Jones,Guard,1976-8-25,6-3/1_91,195 lbs./88_5  kg.,9,CLE
+505,Dwayne Jones,Forward - Center,1983-6-9,6-1/ 2_11,251 lbs./113_9 kg.,2,CLE
+506,Eddie Jones,Guard - Forward,1971-10-20,6-6/1_98,200 lbs./90_7  kg.,13,DAL
+507,Fred Jones,Guard,1979-3-11,6-2/1_88,225 lbs./102_1 kg.,5,NYK
+508,James Jones,Forward,1980-10-4,6-8/2_03,220 lbs./99_8  kg.,4,POR
+509,Chris Kaman,Center,1982-4-28,7-0/2_13,265 lbs./120_2 kg.,4,LAC
+510,Jason Kapono,Forward,1981-2-4,6-8/2_03,215 lbs./97_5  kg.,4,TOR
+511,Coby Karl,Guard,1983-3-6,6-5/1_96,215 lbs./97_5  kg.,0,LAL
+512,Jason Kidd,Guard,1973-3-23,6-4/1_93,210 lbs./95_3  kg.,13,NJN
+513,Andrei Kirilenko,Forward,1981-2-18,6-9/2_06,223 lbs./101_2 kg.,6,UTA
+514,Linas Kleiza,Forward,1985-1-3,6-8/2_03,245 lbs./111_1 kg.,2,DEN
+515,Brevin Knight,Guard,1975-11-8,5-1/ 1_78,170 lbs./77_1  kg.,10,LAC
+516,Kyle Korver,Forward,1981-3-17,6-6/1_98,211 lbs./95_7  kg.,4,PHI
+517,Nenad Krstic,Forward - Center,1983-7-25,7-0/2_13,240 lbs./108_9 kg.,3,NJN
+518,Raef LaFrentz,Forward,1976-5-29,6-1/ 2_11,245 lbs./111_1 kg.,9,POR
+519,Acie Law,Guard,1985-1-25,6-3/1_91,195 lbs./88_5  kg.,0,ATL
+520,David Lee,Forward,1983-4-29,6-9/2_06,240 lbs./108_9 kg.,2,NYK
+521,Rashard Lewis,Forward,1979-8-8,6-1/ 2_08,230 lbs./104_3 kg.,9,ORL
+522,Kyle Lowry,Guard,1986-3-25,6-0/1_83,175 lbs./79_4  kg.,1,MEM
+523,Tyronn Lue,Guard,1977-5-3,6-0/1_83,175 lbs./79_4  kg.,9,ATL
+524,Corey Maggette,Forward,1979-11-12,6-6/1_98,225 lbs./102_1 kg.,8,LAC
+525,Jamaal Magloire,Center,1978-5-21,6-1/ 2_11,265 lbs./120_2 kg.,7,NJN
+526,Ian Mahinmi,Center,1986-11-5,6-1/ 2_11,230 lbs./104_3 kg.,0,SAS
+527,Stephon Marbury,Guard,1977-2-20,6-2/1_88,205 lbs./93_0  kg.,11,NYK
+528,Shawn Marion,Forward,1978-5-7,6-7/2_01,230 lbs./104_3 kg.,8,PHX
+529,Donyell Marshall,Forward,1973-5-18,6-9/2_06,245 lbs./111_1 kg.,13,CLE
+530,Kenyon Martin,Forward,1977-12-30,6-9/2_06,240 lbs./108_9 kg.,7,DEN
+531,Kevin Martin,Guard,1983-2-1,6-7/2_01,185 lbs./83_9  kg.,3,SAC
+532,Desmond Mason,Forward - Guard,1977-10-11,6-5/1_96,222 lbs./100_7 kg.,7,MIL
+533,Roger Mason,Guard,1980-9-10,6-5/1_96,212 lbs./96_2  kg.,3,WAS
+534,Jason Maxiell,Forward,1983-2-18,6-7/2_01,260 lbs./117_9 kg.,2,DET
+535,Rashad McCants,Guard,1984-9-25,6-4/1_93,210 lbs./95_3  kg.,2,MIN
+536,Antonio McDyess,Forward,1974-9-7,6-9/2_06,245 lbs./111_1 kg.,11,DET
+537,Tracy McGrady,Guard - Forward,1979-5-24,6-8/2_03,223 lbs./101_2 kg.,10,HOU
+538,Dominic McGuire,Forward,1985-10-20,6-9/2_06,220 lbs./99_8  kg.,0,WAS
+539,Jeff McInnis,Guard,1974-10-22,6-4/1_93,190 lbs./86_2  kg.,10,CHA
+540,Chris Mihm,Center,1979-7-16,7-0/2_13,265 lbs./120_2 kg.,6,LAL
+541,C.J. Miles,Guard,1987-3-18,6-6/1_98,220 lbs./99_8  kg.,2,UTA
+542,Darko Milicic,Center - Forward,1985-6-20,7-0/2_13,275 lbs./124_7 kg.,4,MEM
+543,Andre Miller,Guard,1976-3-19,6-2/1_88,200 lbs./90_7  kg.,8,PHI
+544,Brad Miller,Center,1976-4-12,7-0/2_13,261 lbs./118_4 kg.,9,SAC
+545,Mike Miller,Guard - Forward,1980-2-19,6-8/2_03,218 lbs./98_9  kg.,7,MEM
+546,Paul Millsap,Forward,1985-2-10,6-8/2_03,258 lbs./117_0 kg.,1,UTA
+547,Cuttino Mobley,Guard,1975-9-1,6-4/1_93,215 lbs./97_5  kg.,9,LAC
+548,Nazr Mohammed,Center,1977-9-5,6-1/ 2_08,250 lbs./113_4 kg.,9,DET
+549,Mikki Moore,Forward - Center,1975-11-4,7-0/2_13,225 lbs./102_1 kg.,9,SAC
+550,Alonzo Mourning,Center,1970-2-8,6-1/ 2_08,261 lbs./118_4 kg.,14,MIA
+551,Ronald Murray,Guard,1979-7-29,6-3/1_91,197 lbs./89_4  kg.,5,DET
+552,Dikembe Mutombo,Center,1966-6-25,7-2/2_18,260 lbs./117_9 kg.,16,HOU
+553,Bostjan Nachbar,Forward,1980-7-3,6-9/2_06,221 lbs./100_2 kg.,5,NJN
+554,Eduardo Najera,Forward,1976-7-11,6-8/2_03,235 lbs./106_6 kg.,7,DEN
+555,Steve Nash,Guard,1974-2-7,6-3/1_91,178 lbs./80_7  kg.,11,PHX
+556,Juan Carlos Navarro,Guard,1980-6-13,6-3/1_91,170 lbs./77_1  kg.,0,MEM
+557,Jameer Nelson,Guard,1982-2-9,6-0/1_83,190 lbs./86_2  kg.,3,ORL
+558,Rasho Nesterovic,Center,1976-5-30,7-0/2_13,255 lbs./115_7 kg.,9,TOR
+559,Ira Newble,Forward - Guard,1975-1-20,6-7/2_01,220 lbs./99_8  kg.,7,CLE
+560,Andres Nocioni,Forward,1979-11-30,6-7/2_01,225 lbs./102_1 kg.,3,CHI
+561,Dirk Nowitzki,Forward,1978-6-19,7-0/2_13,245 lbs./111_1 kg.,9,DAL
+562,Patrick O&039;Bryant,Center,1986-6-20,7-0/2_13,250 lbs./113_4 kg.,1,GSW
+563,Jermaine O&039;Neal,Forward - Center,1978-10-13,6-1/ 2_11,260 lbs./117_9 kg.,11,IND
+564,Shaquille O&039;Neal,Center,1972-3-6,7-1/2_16,325 lbs./147_4 kg.,15,MIA
+565,Fabricio Oberto,Center,1975-3-21,6-1/ 2_08,245 lbs./111_1 kg.,2,SAS
+566,Emeka Okafor,Center - Forward,1982-9-28,6-1/ 2_08,255 lbs./115_7 kg.,3,CHA
+567,Mehmet Okur,Center,1979-5-26,6-1/ 2_11,263 lbs./119_3 kg.,5,UTA
+568,Travis Outlaw,Forward,1984-9-18,6-9/2_06,215 lbs./97_5  kg.,4,POR
+569,Andre Owens,Guard,1980-10-31,6-4/1_93,200 lbs./90_7  kg.,1,IND
+570,Jannero Pargo,Guard,1979-10-22,6-1/1_85,175 lbs./79_4  kg.,5,NOH
+571,Anthony Parker,Guard - Forward,1975-6-19,6-6/1_98,215 lbs./97_5  kg.,4,TOR
+572,Smush Parker,Guard,1981-6-1,6-4/1_93,190 lbs./86_2  kg.,4,MIA
+573,Tony Parker,Guard,1982-5-17,6-2/1_88,180 lbs./81_6  kg.,6,SAS
+574,Ruben Patterson,Forward,1975-7-31,6-5/1_96,223 lbs./101_2 kg.,9,LAC
+575,Chris Paul,Guard,1985-5-6,6-0/1_83,175 lbs./79_4  kg.,2,NOH
+576,Aleksandar Pavlovic,Guard - Forward,1983-11-15,6-7/2_01,239 lbs./108_4 kg.,4,CLE
+577,Kendrick Perkins,Center,1984-11-10,6-1/ 2_08,280 lbs./127_0 kg.,4,BOS
+578,Morris Peterson,Guard - Forward,1977-8-26,6-7/2_01,220 lbs./99_8  kg.,7,NOH
+579,Johan Petro,Center,1986-1-27,7-0/2_13,247 lbs./112_0 kg.,2,SEA
+580,Paul Pierce,Guard - Forward,1977-10-13,6-7/2_01,235 lbs./106_6 kg.,9,BOS
+581,Mickael Pietrus,Forward,1982-2-7,6-6/1_98,215 lbs./97_5  kg.,4,GSW
+582,Scot Pollard,Center - Forward,1975-2-12,6-1/ 2_11,278 lbs./126_1 kg.,10,BOS
+583,James Posey,Forward - Guard,1977-1-13,6-8/2_03,217 lbs./98_4  kg.,8,BOS
+584,Leon Powe,Forward,1984-1-22,6-8/2_03,240 lbs./108_9 kg.,1,BOS
+585,Josh Powell,Forward,1983-1-25,6-9/2_06,240 lbs./108_9 kg.,2,LAC
+586,Ronnie Price,Guard,1983-6-21,6-2/1_88,190 lbs./86_2  kg.,2,UTA
+587,Tayshaun Prince,Forward,1980-2-28,6-9/2_06,215 lbs./97_5  kg.,5,DET
+588,Joel Przybilla,Center,1979-10-10,7-1/2_16,255 lbs./115_7 kg.,7,POR
+589,Chris Quinn,Guard,1983-9-27,6-2/1_88,175 lbs./79_4  kg.,1,MIA
+590,Vladimir Radmanovic,Forward,1980-11-19,6-1/ 2_08,235 lbs./106_6 kg.,6,LAL
+591,Zach Randolph,Forward,1981-7-16,6-9/2_06,260 lbs./117_9 kg.,6,NYK
+592,Theo Ratliff,Center - Forward,1973-4-17,6-1/ 2_08,235 lbs./106_6 kg.,12,MIN
+593,Michael Redd,Guard,1979-8-24,6-6/1_98,215 lbs./97_5  kg.,7,MIL
+594,J.J. Redick,Guard,1984-6-24,6-4/1_93,190 lbs./86_2  kg.,1,ORL
+595,Jason Richardson,Guard - Forward,1981-1-20,6-6/1_98,225 lbs./102_1 kg.,6,CHA
+596,Quentin Richardson,Forward - Guard,1980-4-13,6-6/1_98,235 lbs./106_6 kg.,7,NYK
+597,Luke Ridnour,Guard,1981-2-13,6-2/1_88,175 lbs./79_4  kg.,4,SEA
+598,Nate Robinson,Guard,1984-5-31,5-9/1_75,180 lbs./81_6  kg.,2,NYK
+599,Sergio Rodriguez,Guard,1986-6-12,6-3/1_91,168 lbs./76_2  kg.,1,POR
+600,Rajon Rondo,Guard,1986-2-22,6-1/1_85,171 lbs./77_6  kg.,1,BOS
+601,Quinton Ross,Forward,1981-4-30,6-6/1_98,193 lbs./87_5  kg.,3,LAC
+602,Brandon Roy,Guard,1984-7-23,6-6/1_98,229 lbs./103_9 kg.,1,POR
+603,Michael Ruffin,Forward - Center,1977-1-21,6-8/2_03,248 lbs./112_5 kg.,7,MIL
+604,Kareem Rush,Guard,1980-10-30,6-6/1_98,215 lbs./97_5  kg.,4,IND
+605,John Salmons,Forward,1979-12-12,6-6/1_98,207 lbs./93_9  kg.,5,SAC
+606,Brian Scalabrine,Forward - Center,1978-3-18,6-9/2_06,235 lbs./106_6 kg.,6,BOS
+607,Luis Scola,Forward,1980-4-30,6-9/2_06,245 lbs./111_1 kg.,0,HOU
+608,Thabo Sefolosha,Guard,1984-5-2,6-7/2_01,215 lbs./97_5  kg.,1,CHI
+609,Mouhamed Sene,Center,1986-5-12,6-1/ 2_11,230 lbs./104_3 kg.,1,SEA
+610,Bobby Simmons,Forward,1980-6-2,6-6/1_98,230 lbs./104_3 kg.,5,MIL
+611,Courtney Sims,Center,1983-10-21,6-1/ 2_11,245 lbs./111_1 kg.,0,IND
+612,Brian Skinner,Forward - Center,1976-5-19,6-9/2_06,255 lbs./115_7 kg.,9,PHX
+613,Craig Smith,Forward,1983-11-10,6-8/2_03,250 lbs./113_4 kg.,1,MIN
+614,Jason Smith,Forward,1986-3-2,7-0/2_13,240 lbs./108_9 kg.,0,PHI
+615,Joe Smith,Forward,1975-7-26,6-1/ 2_08,225 lbs./102_1 kg.,12,CHI
+616,Josh Smith,Forward,1985-12-5,6-9/2_06,235 lbs./106_6 kg.,3,ATL
+617,Darius Songaila,Forward,1978-2-14,6-9/2_06,248 lbs./112_5 kg.,4,WAS
+618,Jerry Stackhouse,Forward - Guard,1974-11-5,6-6/1_98,218 lbs./98_9  kg.,12,DAL
+619,DeShawn Stevenson,Guard,1981-4-3,6-5/1_96,218 lbs./98_9  kg.,7,WAS
+620,Peja Stojakovic,Forward - Guard,1977-6-9,6-1/ 2_08,229 lbs./103_9 kg.,9,NOH
+621,Damon Stoudamire,Guard,1973-9-3,5-1/ 1_78,171 lbs./77_6  kg.,12,MEM
+622,Amare Stoudemire,Center,1982-11-16,6-1/ 2_08,249 lbs./112_9 kg.,5,PHX
+623,D.J. Strawberry,Guard,1985-6-15,6-5/1_96,201 lbs./91_2  kg.,0,PHX
+624,Robert Swift,Center,1985-12-3,7-1/2_16,245 lbs./111_1 kg.,2,SEA
+625,Stromile Swift,Center,1979-11-21,6-1/ 2_08,220 lbs./99_8  kg.,7,MEM
+626,Wally Szczerbiak,Forward,1977-3-5,6-7/2_01,245 lbs./111_1 kg.,8,SEA
+627,Sebastian Telfair,Guard,1985-6-9,6-0/1_83,175 lbs./79_4  kg.,3,MIN
+628,Jason Terry,Guard,1977-9-15,6-2/1_88,180 lbs./81_6  kg.,8,DAL
+629,Kenny Thomas,Forward,1977-7-25,6-7/2_01,245 lbs./111_1 kg.,8,SAC
+630,Tim Thomas,Forward,1977-2-26,6-1/ 2_08,240 lbs./108_9 kg.,10,LAC
+631,Tyrus Thomas,Forward,1986-8-17,6-8/2_03,215 lbs./97_5  kg.,1,CHI
+632,Al Thornton,Forward,1983-12-7,6-8/2_03,220 lbs./99_8  kg.,0,LAC
+633,Jamaal Tinsley,Guard,1978-2-28,6-3/1_91,185 lbs./83_9  kg.,6,IND
+634,Ronny Turiaf,Forward,1983-1-13,6-1/ 2_08,250 lbs./113_4 kg.,2,LAL
+635,Hedo Turkoglu,Forward,1979-3-19,6-1/ 2_08,220 lbs./99_8  kg.,7,ORL
+636,Ime Udoka,Forward,1977-8-9,6-5/1_96,220 lbs./99_8  kg.,3,SAS
+637,Charlie Villanueva,Forward,1984-8-24,6-1/ 2_11,232 lbs./105_2 kg.,2,MIL
+638,Jake Voskuhl,Center,1977-11-1,6-1/ 2_11,255 lbs./115_7 kg.,7,MIL
+639,Sasha Vujacic,Guard,1984-3-8,6-7/2_01,205 lbs./93_0  kg.,3,LAL
+640,Von Wafer,Guard,1985-7-21,6-5/1_96,210 lbs./95_3  kg.,2,DEN
+641,Antoine Walker,Forward,1976-8-12,6-9/2_06,245 lbs./111_1 kg.,11,MIN
+642,Ben Wallace,Center,1974-9-10,6-9/2_06,240 lbs./108_9 kg.,11,CHI
+643,Gerald Wallace,Forward,1982-7-23,6-7/2_01,220 lbs./99_8  kg.,6,CHA
+644,Rasheed Wallace,Forward - Center,1974-9-17,6-1/ 2_11,230 lbs./104_3 kg.,12,DET
+645,Luke Walton,Forward,1980-3-28,6-8/2_03,235 lbs./106_6 kg.,4,LAL
+646,Hakim Warrick,Forward,1982-7-8,6-9/2_06,215 lbs./97_5  kg.,2,MEM
+647,Darius Washington,Guard,1985-12-6,6-2/1_88,195 lbs./88_5  kg.,0,SAS
+648,Darryl Watkins,Center,1984-11-8,6-1/ 2_11,258 lbs./117_0 kg.,0,SAC
+649,Earl Watson,Guard,1979-6-12,6-1/1_85,185 lbs./83_9  kg.,6,SEA
+650,Martell Webster,Forward - Guard,1986-12-4,6-7/2_01,229 lbs./103_9 kg.,2,POR
+651,Bonzi Wells,Guard - Forward,1976-9-28,6-5/1_96,210 lbs./95_3  kg.,9,HOU
+652,David West,Forward,1980-8-29,6-9/2_06,240 lbs./108_9 kg.,4,NOH
+653,Delonte West,Guard,1983-1-26,6-3/1_91,180 lbs./81_6  kg.,3,SEA
+654,Mario West,Guard,1984-6-19,6-5/1_96,210 lbs./95_3  kg.,0,ATL
+655,Chris Wilcox,Forward,1982-9-3,6-1/ 2_08,235 lbs./106_6 kg.,5,SEA
+656,Damien Wilkins,Guard - Forward,1980-1-11,6-6/1_98,225 lbs./102_1 kg.,3,SEA
+657,Mike Wilks,Guard,1979-5-7,5-1/ 1_78,180 lbs./81_6  kg.,5,DEN
+658,Deron Williams,Guard,1984-6-26,6-3/1_91,205 lbs./93_0  kg.,2,UTA
+659,Jason Williams,Guard,1975-11-18,6-1/1_85,180 lbs./81_6  kg.,9,MIA
+660,Louis Williams,Guard,1986-10-27,6-2/1_88,175 lbs./79_4  kg.,2,PHI
+661,Marvin Williams,Forward,1986-6-19,6-9/2_06,230 lbs./104_3 kg.,2,ATL
+662,Maurice Williams,Guard,1982-12-19,6-1/1_85,185 lbs./83_9  kg.,4,MIL
+663,Sean Williams,Forward - Center,1986-9-13,6-1/ 2_08,235 lbs./106_6 kg.,0,NJN
+664,Shelden Williams,Forward,1983-10-21,6-9/2_06,250 lbs./113_4 kg.,1,ATL
+665,Antoine Wright,Forward - Guard,1984-2-6,6-7/2_01,215 lbs./97_5  kg.,2,NJN
+666,Dorell Wright,Forward,1985-12-2,6-9/2_06,210 lbs./95_3  kg.,3,MIA
+667,Julian Wright,Forward,1987-5-20,6-8/2_03,225 lbs./102_1 kg.,0,NOH
+668,Yao Ming,Center,1980-9-12,7-6/2_29,310 lbs./140_6 kg.,5,HOU
+669,Yi Jianlian,Forward,1987-10-27,7-0/2_13,238 lbs./108_0 kg.,0,MIL
+670,Nick Young,Guard,1985-6-1,6-6/1_98,200 lbs./90_7  kg.,0,WAS

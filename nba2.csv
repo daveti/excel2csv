@@ -1,0 +1,32 @@
+Team
+TeamID,TeamName,conference,Division,founedyear,arena,city,teamcolors,headcoach,championships
+ATL,Atlanta Hawks,Eastern,Southeast,1946,Philips Arena,Atlanta_ Georgia,Navy blue_ Red_ Silver,Mike Woodson,1958
+BOS,Boston Celtics,Eastern,Atlantic,1946,TD Banknorth Garden,Boston_ Massachusetts,Green_ White_ Black and Gold,Glenn "Doc" Rivers,1957_ 1959_ 1960_ 1961_ 1962_ 1963_ 1964_ 1965_ 1966_ 1968_ 1969_ 1974_ 1976_ 1981_ 1984_ 1986
+CHA,Charlotte Bobcats ,Eastern,Southeast,2004,Charlotte Bobcats Arena,Charlotte_ North Carolina,Bobcat Orange_ Blue_ Black_ Silver and White,Sam Vincent,0
+CHI,Chicago Bulls,Eastern,Central,1966,United Center,Chicago_ Illinois,Red_ Black_ and White,Scott Skiles,1991_ 1992_ 1993_ 1996_ 1997_ 1998
+CLE,Cleveland Cavaliers,Eastern,Central,1970,Cleveland Cavaliers,Cleveland_ Ohio,Wine_ Gold_ Navy Blue_ and White,Mike Brown,0
+DAL,Dallas Mavericks,Western,Southeast,1980,American Airlines Center,Dallas_ Texas,Midnight blue_ Green_ White_ Blue_ and Silver,Avery Johnson,0
+DEN,Denver Nuggets,Western,Northwest,1967,Pepsi Center,Denver_ Colorado,Powder Blue_ Gold_ Royal Blue_ and Navy,George Karl,0
+DET,Detroit Pistons,Eastern,Central,1941,The Palace of Auburn Hills,Auburn Hills_ Michigan,Red_ White and Blue,Flip Saunders,1989_ 1990_ 2004
+GSW,Golden State Warrior,Western,Pacific,1946,Oracle Arena,Oakland_ California,Midnight blue_ Golden Gate orange_ California yellow_ White,Don Nelson,1956_ 1975
+HOU,Houston Rockets,Western,Southwest,1967,Toyota Center,Houston_ Texas,Red_ White_ and Silver,Rick Adelman,1994_ 1995
+IND,Indiana Pacers,Eastern,Central,1967,Conseco Fieldhouse,Indianapolis_ Indiana,Navy Blue_ Gold_ Silver_ and White,Jim O'Brien,0
+LAC,Los Angeles Clippers,Western,Pacific,1970,Staples Center,Los Angeles_ California,Red_ White_ and Blue,Mike Dunleavy Sr.,0
+LAL,Los Angeles Lakers,Western,Pacific,1946,Staples Center,Los Angeles_ California,Purple_ Gold and White,Phil Jackson,1949_ 1950_ 1952_ 1953_ 1954_ 1972_ 1980_ 1982_ 1985_ 1987_ 1988_ 2000_ 2001_ 2002
+MEM,Memphis Grizzlies,Western,Southwest,1995,FedExForum,Memphis_ Tennessee,navy blue_ light blue_ smoke blue_ white_ and golden yellow,Marc Iavaroni,0
+MIA,Miami Heat,Eastern,Southeast,1988,AmericanAirlines Arena,Miami_ Florida,Black_ Red_ White_ Orange,Pat Riley,2006
+MIL,Milwaukee Bucks,Eastern,Central,1968,Bradley Center,Milwaukee_ Wisconsin,Hunter Green_ Deep Red_ Silver_ White,Larry Krystkowiak,1971
+MIN,Minnesota Timberwolv,Western,Northwest,1989,Target Center,Minneapolis_ Minnesota,Black_ Forest Green_ Blue and Silver,Randy Wittman,0
+NJN,New Jersey Nets,Eastern,Atlantic,1967,Izod Center,East Rutherford_ New Jersey,Dark blue_ White_ Red_ and Silver,Lawrence Frank,0
+NOH,New Orleans Hornets,Western,Southwest,1988,New Orleans Arena,New Orleans_ Louisiana,Teal_ Purple_ and Gold,Byron Scott,0
+NYK,New York Knickerbock,Eastern,Atlantic,1946,Madison Square Garden,New York City,Blue_ Orange_ White and Black,Isiah Thomas,1970_ 1973
+ORL,Orlando Magic,Eastern,Southeast,1989,Amway Arena,Orlando_ Florida,Blue_ Black_ White_ and Silver,Stan Van Gundy,0
+PHI,Philadelphia 76ers,Eastern,Atlantic,1939,Wachovia Center,Philadelphia_ Pennsylvania,Black_ Red_ Gold_ Blue_ and White,Maurice Cheeks,1955_ 1967_ 1983
+PHX,Phoenix Suns,Western,Pacific,1968,US Airways Center,Phoenix_ Arizona,Purple_ Orange_ White_ and Gray,Mike D'Antoni,0
+POR,Portland Trail Blaze,Western,Northwest,1970,Rose Garden Arena,Portland_ Oregon,Red_ black_ silver_ and white,Nate McMillan,1977
+SAC,Sacramento Kings,Western,Pacific,1945,ARCO Arena,Sacramento_ California,Black_ Purple_ Gold_ and Silver,Reggie Theus,1951
+SAS,San Antonio Spurs,Western,Southwest,1967,AT&T Center,San Antonio_ Texas,Black_ White_ and Silver,Gregg Popovich,1999_ 2003_ 2005_ 2007
+SEA,Seattle SuperSonics,Western,Northwest,1967,Seattle Center,Seattle_ Washington,Green_ Black_ Gold and White,P.J. Carlesimo,1979
+TOR,Toronto Raptors,Eastern,Atlantic,1995,Air Canada Centre ,Toronto_ Ontario,Red_ Black_ and White,Sam Mitchell,0
+UTA,Utah Jazz,Western,Northwest,1974,EnergySolutions Arena,Salt Lake City_ Utah,Navy blue_ Ice blue_ and Purple,Jerry Sloan,0
+WAS,Washington Wizards,Eastern,Southeast,1961,Verizon Center,Washington_ D.C.,Blue_ White_ Gold_ and Black,Eddie Jordan,1978
